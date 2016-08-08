@@ -13,8 +13,20 @@ span.red {
   color: red;
 }
 
+span.blue {
+  color: blue;
+}
+
+span.green {
+  color: green;
+}
+
+span.orange {
+  color: orange;
+}
+
 header {
-  background-image: url("../img/bg.jpg");
+  background-image: url("../img/bg1.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
